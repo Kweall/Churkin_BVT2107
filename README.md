@@ -10,4 +10,4 @@ This repository presents my projects for the first semester.
 - Simple telegram bot
 > Telegram_Bot
 - Schedule program with UI
-> UI-schedule
+> UI_schedule
