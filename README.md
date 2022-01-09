@@ -11,5 +11,3 @@ This repository presents my projects for the first semester.
 > Telegram_Bot
 - Schedule program with UI
 > UI-schedule
-- work#2
-> Trasnlator
